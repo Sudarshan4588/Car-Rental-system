@@ -1,0 +1,35 @@
+===============================
+        CAR RENTAL RECEIPT
+===============================
+
+Car Details:
+-------------------------------
+Car ID       : 1
+Maker        : Toyota
+Model        : Fortuner (2020)
+Color        : White
+Type         : Family Car
+Seating Cap. : 6
+Condition    : Excellent
+Reg. Number  : ABC-0123
+Rent/Hour    : ₹200
+
+Owner Details:
+-------------------------------
+Owner Name   : Sumit Gadag
+Owner ID     : 1
+CNIC         : 00002
+Contact No.  : 9900470213
+
+Customer Details:
+-------------------------------
+Customer Name: Sudarshan
+Customer ID  : 1
+CNIC         : 00001
+Contact No.  : 8495924156
+
+Bill Details:
+-------------------------------
+Total Rent   : ₹200 
+
+===============================
